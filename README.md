@@ -1,5 +1,12 @@
 <img  src="https://www.otempo.com.br/image/contentid/policy:1.2226189:1566580322/image.PNG?f=3x2&w=620&$p$f$w=26231fa" />
 
+## Hello Word! 🖖
+
+##### I'm 27 years old, I'm a student in the Higher course in Software Engineering, I have basic level knowledge focused on web development. Always open to learning the trades of the profession and new technologies.
+
+<p>  Access my
+<a href="https://www.figma.com/proto/9BrFg5SNikWOTUX0NLzcnD/Curr%C3%ADculo---Sara-Marques?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1"> resume </a>.
+</p>
 
 # Stacks
 
