@@ -13,7 +13,7 @@
 </p>
 
 <p>  Access my
-<a href="https://www.figma.com/file/9BrFg5SNikWOTUX0NLzcnD/Curr%C3%ADculo---Sara-Marques?node-id=0%3A1"> resume en-us </a>
+<a href="https://www.figma.com/file/ZUHwuqGVCQpbsDep1N2Gty/Curr%C3%ADculo---Sara-Marques-en-us"> resume en-us </a>
 </p>
 
 # Stacks
