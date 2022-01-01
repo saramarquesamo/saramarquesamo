@@ -22,6 +22,11 @@
 <img align="left" height="40" width="40" src="https://user-images.githubusercontent.com/87031616/147854729-757d55c9-bf47-43a0-9d5f-4ecb92dd63a7.png" />
 <img align="left" height="40" width="40" src="https://user-images.githubusercontent.com/87031616/147854770-d7c8546d-fd47-4da4-bb59-102ac0eb3e20.png" />
 <img  align="left" height="40" width="40" src="https://user-images.githubusercontent.com/87031616/147854784-e3fc80f2-cea0-44c1-8053-3f15f98b838b.png" />
+
+<img  align="left" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+<img  align="left" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+
+
 <img align="left" height="40" width="40" src="https://user-images.githubusercontent.com/87031616/147854813-bee3d3b7-2317-4124-b40f-d6338c6d7084.png" />
 <img align="left" height="40" width="40" src="https://user-images.githubusercontent.com/87031616/147854852-319453f9-acf2-4c29-97c8-944e3c274cbf.png" />
 <img align="left" height="40" width="40" src="https://user-images.githubusercontent.com/87031616/147854863-e7ab0e80-1004-4ac9-9a8c-f874b6c4f61f.png" />
