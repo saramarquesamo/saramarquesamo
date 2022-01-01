@@ -1,6 +1,6 @@
 <img  src="https://www.otempo.com.br/image/contentid/policy:1.2226189:1566580322/image.PNG?f=3x2&w=620&$p$f$w=26231fa" />
 
-## Hello Word! 🖖
+# Hello Word! 🖖
 
 ####  I'm Brazilian 🇧🇷, I'm 27 years old, I'm a student in the Higher course in Software Engineering, I have basic level knowledge focused on web development. Always open to learning the trades of the profession and new technologies.
 
@@ -28,7 +28,7 @@
 
 <br> <br> <br> <br>
 
-# Contact
+# Contacts
 
 <a href="https://instagram.com/saramamorim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:saratechdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
