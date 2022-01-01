@@ -9,11 +9,11 @@
 ####  I'm Brazilian 🇧🇷, I'm 27 years old, I'm a student in the Higher course in Software Engineering, I have basic level knowledge focused on web development. Always open to learning the trades of the profession and new technologies.
 
 <p>  Access my
-<a href="https://www.figma.com/proto/9BrFg5SNikWOTUX0NLzcnD/Curr%C3%ADculo---Sara-Marques?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1"> resume pt-br </a>
+<a href="https://www.figma.com/file/9BrFg5SNikWOTUX0NLzcnD/Curr%C3%ADculo---Sara-Marques?node-id=2%3A2"> resume pt-br </a>
 </p>
 
 <p>  Access my
-<a href="https://www.figma.com/proto/9BrFg5SNikWOTUX0NLzcnD/Curr%C3%ADculo---Sara-Marques?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1"> resume en-us </a>
+<a href="https://www.figma.com/file/9BrFg5SNikWOTUX0NLzcnD/Curr%C3%ADculo---Sara-Marques?node-id=0%3A1"> resume en-us </a>
 </p>
 
 # Stacks
