@@ -8,13 +8,6 @@
 
 ####  I'm Brazilian 🇧🇷, I'm 27 years old, I'm a student in the Higher course in Software Engineering, I have basic level knowledge focused on web development. Always open to learning the trades of the profession and new technologies.
 
-<p>  Access my
-<a href="https://www.figma.com/file/9BrFg5SNikWOTUX0NLzcnD/Curr%C3%ADculo---Sara-Marques?node-id=2%3A2"> resume pt-br </a>
-</p>
-
-<p>  Access my
-<a href="https://www.figma.com/file/ZUHwuqGVCQpbsDep1N2Gty/Curr%C3%ADculo---Sara-Marques-en-us"> resume en-us </a>
-</p>
 
 # Stacks
 
