@@ -4,9 +4,8 @@
 
 <img  src="https://www.otempo.com.br/image/contentid/policy:1.2226189:1566580322/image.PNG?f=3x2&w=620&$p$f$w=26231fa" />
 
-# Hello Word! 🖖
+Hello Word! 🖖
 
-####  I'm Brazilian 🇧🇷, I'm 27 years old, I'm a student in the Higher course in Software Engineering, I have basic level knowledge focused on web development. Always open to learning the trades of the profession and new technologies.
 
 
 # Stacks
