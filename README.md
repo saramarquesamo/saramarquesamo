@@ -1,13 +1,10 @@
 
 <br> <br> <br> <br> <br> <br>
 
-
 <img  src="https://www.otempo.com.br/image/contentid/policy:1.2226189:1566580322/image.PNG?f=3x2&w=620&$p$f$w=26231fa" />
+<br> <br>
+<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saramarquesamo&&layout=compact&hide=shell&theme=jolly"/> 
 
-<div>
- <img height="180em"align="center"src="https://github-readme-stats.vercel.app/api?username=saramarquesamo_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saramarquesamo&&layout=compact&hide=shell&theme=jolly"/> 
-</div>
 
 # Contacts
 
